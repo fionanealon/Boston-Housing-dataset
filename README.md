@@ -1,6 +1,6 @@
 # Boston-Housing-dataset
 
-An Analysis of the Boston-Housing-dataset for the Machine Learning and Statistics module. The repository contains:
+An analysis of the Boston-Housing-dataset for the Machine Learning and Statistics module. The repository contains:
 
 - an exploratory analysis of the boston housing dataset using descriptive statsistcs
 
